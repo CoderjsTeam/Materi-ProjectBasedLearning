@@ -21,7 +21,7 @@
 
 ## Table of Contents
 
-1. **[Perkenalan HTML & CSS](#html-&-css)**
+1. **[Perkenalan HTML & CSS](#html-css)**
 2. **[Bootstrap](#bootstrap)**
 3. **[Javascript Fundamental](#javascript-fundamental)**
 4. **[Coming Soon](#coming-soon)**
@@ -38,7 +38,7 @@ Jika kalian ingin bertanya seputar program ini atau ingin bergabung dengan Coder
 ---
 
 
-### HTML & CSS
+### HTML CSS
 
 > * :computer: [Drop this subject](files/ProjectBasedLearning1.pdf)
 
