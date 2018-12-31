@@ -21,7 +21,7 @@
 
 ## Table of Contents
 
-1. **[Perkenalan HTML & CSS](#HTML&CSS)**
+1. **[Perkenalan HTML & CSS](#html-&-css)**
 2. **[Bootstrap](#bootstrap)**
 3. **[Javascript Fundamental](#javascript-fundamental)**
 4. **[Coming Soon](#coming-soon)**
@@ -32,7 +32,7 @@
 
 ## Any Question?
 
-Jika kalian ingin bertanya seputar program ini atau ingin bergabung dengan CoderJS, silahkan akses [link ini](http://bit.ly/coderjsorg)
+Jika kalian ingin bertanya seputar program ini atau ingin bergabung dengan CoderJS, silahkan bertanya digrup Telegram, untuk bergabung akses [link ini](http://bit.ly/coderjsorg)
 
 
 ---
