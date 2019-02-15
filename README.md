@@ -11,9 +11,9 @@
 
 ## Last Updated
 
-![Day](https://badgen.net/badge/Day/31/red)
-![Month](https://badgen.net/badge/Month/December/red)
-![Year](https://badgen.net/badge/Year/2018/red)
+![Day](https://badgen.net/badge/Day/15/red)
+![Month](https://badgen.net/badge/Month/January/red)
+![Year](https://badgen.net/badge/Year/2019/red)
 
 
 ---
@@ -24,7 +24,8 @@
 1. **[Perkenalan HTML & CSS](#html-css)**
 2. **[Bootstrap](#bootstrap)**
 3. **[Javascript Fundamental](#javascript-fundamental)**
-4. **[Coming Soon](#coming-soon)**
+4. **[Javascript Fundamental part II](#javascript-fundamental-part-ii)**
+5. **[Coming Soon](#coming-soon)**
 
 
 ---
@@ -51,6 +52,11 @@ Jika kalian ingin bertanya seputar program ini atau ingin bergabung dengan Coder
 ### Javascript Fundamental
 
 > * :computer: [Drop this subject](files/ProjectBasedLearning3.pdf)
+
+
+### Javascript Fundamental Part II
+
+> * :computer: [Drop this subject](files/ProjectBasedLearning4.pdf)
 
 
 ###  Coming Soon
